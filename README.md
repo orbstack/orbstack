@@ -9,10 +9,10 @@
 
 ## Features
 
-- **Fast.** Starts in under 2 seconds, optimized networking (30 Gbps!) and disk, Rosetta x86 emulation on Apple Silicon.
-- **Light.** Low CPU and disk usage, works with less memory, native Swift app.
-- **Simple.** Minimal setup, seamless Docker, 2-way CLI integration, file access from Mac and Linux, works with VPNs and remote VS Code, SSH agent forwarding.
-- **Powerful.** Run Docker containers, full Linux distros, and Kubernetes (coming soon). No admin/root required. Network works with IPv6, ICMP, traceroute — you name it.
+- ⚡️ **Fast.** Starts in under 2 seconds, optimized networking (30 Gbps!) and disk, Rosetta x86 emulation on Apple Silicon.
+- 💨 **Light.** Low CPU and disk usage, works with less memory, native Swift app.
+- 🍰 **Simple.** Minimal setup, seamless Docker, 2-way CLI integration, file access from Mac and Linux, works with VPNs and remote VS Code, SSH agent forwarding.
+- ⚙️ **Powerful.** Run Docker containers, full Linux distros, and Kubernetes (coming soon). No admin/root required. Network works with IPv6, ICMP, traceroute — you name it.
 
 ## Demos
 
