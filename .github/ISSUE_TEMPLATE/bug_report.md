@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
@@ -23,16 +23,13 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Logs**
+If applicable, attach log files by opening the OrbStack menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**System info**
+- macOS version: 
+- CPU architecture: 
+<!-- Intel (x86) or Apple Silicon (ARM - M1/M2)
 
 **Additional context**
 Add any other context about the problem here.
