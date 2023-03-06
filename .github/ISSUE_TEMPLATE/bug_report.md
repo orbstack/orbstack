@@ -29,7 +29,7 @@ If applicable, attach log files by opening the OrbStack menu and clicking “Sho
 **System info**
 - macOS version: 
 - CPU architecture: 
-<!-- Intel (x86) or Apple Silicon (ARM - M1/M2)
+<!-- Intel (x86) or Apple Silicon (ARM - M1/M2) -->
 
 **Additional context**
 Add any other context about the problem here.
