@@ -27,6 +27,8 @@ If applicable, add screenshots to help explain your problem.
 If applicable, attach log files by opening the OrbStack menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
 
 **System info**
+<!-- Please update to the latest version before reporting. -->
+- OrbStack version:
 - macOS version: 
 - CPU architecture: 
 <!-- Intel (x86) or Apple Silicon (ARM - M1/M2) -->
