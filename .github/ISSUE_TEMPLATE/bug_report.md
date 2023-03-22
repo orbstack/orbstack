@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- PLEASE UPDATE to the latest version of OrbStack BEFORE reporting -->
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -26,12 +28,11 @@ If applicable, add screenshots to help explain your problem.
 **Logs**
 If applicable, attach log files by opening the OrbStack menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
 
-**System info**
-<!-- Please update to the latest version before reporting. -->
-- OrbStack version:
-- macOS version: 
-- CPU architecture: 
-<!-- Intel (x86) or Apple Silicon (ARM - M1/M2) -->
+**Info report**
+<!-- Run the "orb report" command in a terminal, then copy and paste the output below. -->
+```
+<paste here>
+```
 
 **Additional context**
 Add any other context about the problem here.
