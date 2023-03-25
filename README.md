@@ -5,27 +5,28 @@
   </a>
 </p>
 
-[**OrbStack**](https://orbstack.dev) is a fast, light, and simple way to run Docker containers and Linux machines on macOS. Say goodbye to slow, clunky containers and VMs.
+[**OrbStack**](https://orbstack.dev) is a fast, light, and simple way to run Docker containers and Linux machines on macOS.
+
+**Say goodbye to slow, clunky containers and VMs.** Streamline your development workflow with intuitive integrations.
 
 ## Features
 
-- ⚡️ **Fast.** Starts in under 2 seconds, optimized networking (30 Gbps!) and disk, Rosetta x86 emulation on Apple Silicon.
-- 💨 **Light.** Low CPU and disk usage, works with less memory, native Swift app.
-- 🍰 **Simple.** Minimal setup, seamless Docker, 2-way CLI integration, file access from Mac and Linux, works with VPNs and remote VS Code, SSH agent forwarding.
-- ⚙️ **Powerful.** Run Docker containers, full Linux distros, and Kubernetes (coming soon). No admin/root required. Network works with IPv6, ICMP, traceroute — you name it.
+- ⚡️ **Lightning Fast.** Starts in 2 seconds, optimized networking (35 Gbps) and disk, Rosetta x86 emulation.
+- 💨 **Feather Light.** Low CPU and disk usage, works with less memory, native Swift app, battery-friendly.
+- 🍰 **Simple as Cake.** Minimal setup, 2-way CLI integration & file access, VPN support and remote VS Code, SSH agent forwarding.
+- ⚙️ **Powerful.** Run seamless Docker containers, full Linux distros, and Kubernetes (soon). Robust networking with IPv6, ICMP, traceroute, and more.
 
-## Demos
+## Learn more
 
-[See the website.](https://orbstack.dev)
-
-## Download
-
-[Get early access](https://orbstack.dev/waitlist)
+- [**Demos**](https://orbstack.dev/#demos)
+- [**Benchmarks**](https://orbstack.dev/#benchmarks)
+- [**Testimonials**](https://orbstack.dev/#testimonials)
 
 ## Links
 
 - [Website](https://orbstack.dev)
 - [Documentation](https://docs.orbstack.dev)
+- [Frequently asked questions](https://docs.orbstack.dev/faq)
 - [Issue tracker](https://github.com/orbstack/orbstack/issues)
 - [Roadmap](https://github.com/orgs/orbstack/projects/1)
-- [Support email](mailto:support@orbstack.dev)
+- [Support](mailto:support@orbstack.dev)
