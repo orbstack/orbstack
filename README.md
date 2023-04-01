@@ -5,16 +5,18 @@
   </a>
 </p>
 
-[**OrbStack**](https://orbstack.dev) is a fast, light, and simple way to run Docker containers and Linux machines on macOS.
+[OrbStack](https://orbstack.dev) is a fast, light, and simple way to run Docker containers and Linux machines on macOS. It's a supercharged WSL and Docker Desktop replacement, all in one easy-to-use app.
 
-**Say goodbye to slow, clunky containers and VMs.** Streamline your development workflow with intuitive integrations.
+**Say goodbye to slow, clunky containers and VMs.** Docker Desktop alternative that helps you work faster. **[Get started](https://docs.orbstack.dev/quick-start)**
 
 ## Features
 
 - ⚡️ **Lightning Fast.** Starts in 2 seconds, optimized networking (35 Gbps) and disk, Rosetta x86 emulation.
 - 💨 **Feather Light.** Low CPU and disk usage, works with less memory, native Swift app, battery-friendly.
-- 🍰 **Simple as Cake.** Minimal setup, 2-way CLI integration & file access, VPN support and remote VS Code, SSH agent forwarding.
+- 🍰 **Effortlessly Simple.** Minimal setup, 2-way CLI integration & file access, VPN support and remote VS Code, SSH agent forwarding.
 - ⚙️ **Powerful.** Run seamless Docker containers, full Linux distros, and Kubernetes (soon). Robust networking with IPv6, ICMP, traceroute, and more.
+
+Check the [website](https://orbstack.dev) for demos, or see [what we're up to](https://docs.orbstack.dev/release-notes).
 
 ## Learn more
 
