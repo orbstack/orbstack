@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: t/bug
 assignees: ''
 
 ---
@@ -26,7 +26,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Logs**
-If applicable, attach log files by opening the OrbStack menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
+Attach log files by opening the OrbStack menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
 
 **Info report**
 <!-- Run the "orb report" command in a terminal, then copy and paste the output below. -->
