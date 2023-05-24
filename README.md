@@ -14,7 +14,7 @@
 - ⚡️ **Lightning Fast.** Starts in 2 seconds, optimized networking (35 Gbps) and disk, Rosetta x86 emulation.
 - 💨 **Feather Light.** Low CPU and disk usage, works with less memory, native Swift app, battery-friendly.
 - 🍰 **Effortlessly Simple.** Minimal setup, 2-way CLI integration & file access, VPN support and remote VS Code, SSH agent forwarding.
-- ⚙️ **Powerful.** Run seamless Docker containers, full Linux distros, and Kubernetes (soon). Robust networking with IPv6, ICMP, traceroute, and more.
+- ⚙️ **Powerful.** Run Docker containers and full Linux distros (soon Kubernetes) seamlessly with robust networking. Manage containers from anywhere with our menu bar app.
 
 Check the [website](https://orbstack.dev) for demos, or see [what we're up to](https://docs.orbstack.dev/release-notes).
 
