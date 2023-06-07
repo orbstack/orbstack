@@ -28,6 +28,8 @@ If applicable, add screenshots to help explain your problem.
 **Logs**
 Attach log files by opening OrbStack's Help menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
 
+**PLEASE ATTACH THE ENTIRE LOG FILE WITHOUT REMOVING ANY LINES.** There is usually important context earlier in the log.
+
 **Info report**
 <!-- Run the "orb report" command in a terminal, then copy and paste the output below. -->
 ```
