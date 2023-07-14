@@ -1,0 +1,68 @@
+name: Bug report
+description: Create a report to help us improve
+labels: ["t/bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+        **Please update OrbStack** to the latest version **before** reporting.
+  - type: textarea
+    id: describe
+    attributes:
+      label: Describe the bug
+      description: What went wrong?
+      placeholder: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: |
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should have happened?
+      placeholder: |
+        A clear and concise description of what you expected to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: |
+        Attach a log file by opening OrbStack's Help menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
+
+        **PLEASE ATTACH THE ENTIRE LOG FILE WITHOUT REMOVING ANY LINES.** There is usually important context earlier in the log.
+      placeholder: |
+        Upload log file here.
+  # - type: textarea
+  #   id: diag
+  #   attributes:
+  #     label: Diagnostic report (REQUIRED)
+  #     description: |
+  #       Click "Collect Diagnostics" in OrbStack's Help menu (or run the "orb report" command), then paste the output here.
+
+  #       This is private and only OrbStack developers can see the report.
+  #     placeholder: |
+  #       REQUIRED. Paste here.
+  #   validations:
+  #     required: false
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context (optional)
+      description: Add any other context about the problem here.
+    validations:
+      required: false
