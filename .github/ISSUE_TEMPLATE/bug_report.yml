@@ -38,27 +38,17 @@ body:
     validations:
       required: false
   - type: textarea
-    id: logs
+    id: diag
     attributes:
-      label: Logs
+      label: Diagnostic report (REQUIRED)
       description: |
-        Attach a log file by opening OrbStack's Help menu and clicking “Show Logs”, or [email](https://orbstack.dev/email/logs) them for privacy.
+        Click "Collect Diagnostics" in OrbStack's Help menu (or run the "orb report" command), then paste the output here.
 
-        **PLEASE ATTACH THE ENTIRE LOG FILE WITHOUT REMOVING ANY LINES.** There is usually important context earlier in the log.
+        This is private and only OrbStack developers can see the report.
       placeholder: |
-        Upload log file here.
-  # - type: textarea
-  #   id: diag
-  #   attributes:
-  #     label: Diagnostic report (REQUIRED)
-  #     description: |
-  #       Click "Collect Diagnostics" in OrbStack's Help menu (or run the "orb report" command), then paste the output here.
-
-  #       This is private and only OrbStack developers can see the report.
-  #     placeholder: |
-  #       REQUIRED. Paste here.
-  #   validations:
-  #     required: false
+        REQUIRED. Paste here.
+    validations:
+      required: false
   - type: textarea
     id: additional
     attributes:
