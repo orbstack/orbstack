@@ -7,7 +7,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
 
-        **Please update OrbStack** to the latest version **before** reporting.
+        **Please update OrbStack** to the latest version before reporting a bug. Your issue may already be fixed.
   - type: textarea
     id: describe
     attributes:
