@@ -5,22 +5,22 @@
   </a>
 </p>
 
-[OrbStack](https://orbstack.dev) is a fast, light, and simple way to run Docker containers and Linux machines on macOS. It's a supercharged WSL and Docker Desktop alternative, all in one easy-to-use app.
+[OrbStack](https://orbstack.dev) is the fast, light, and easy way to run Docker containers and Linux machines on macOS. It's a supercharged WSL and Docker Desktop alternative, all in one easy-to-use app.
 
-**Say goodbye to slow, clunky containers and VMs.** Docker Desktop alternative that helps you work faster. **[Get started](https://docs.orbstack.dev/quick-start)**
+**Say goodbye to slow, clunky containers and VMs.** Develop at lightspeed with our Docker Desktop alternative. **[Get started](https://docs.orbstack.dev/quick-start)**
 
-## Features
+## Why OrbStack?
 
-- ⚡️ **Lightning Fast.** Starts in 2 seconds, optimized networking (35 Gbps) and disk, Rosetta x86 emulation.
-- 💨 **Feather Light.** Low CPU and disk usage, works with less memory, native Swift app, battery-friendly.
-- 🍰 **Effortlessly Simple.** Minimal setup, 2-way CLI integration & file access, VPN support and remote VS Code, SSH agent forwarding.
-- ⚙️ **Powerful.** Run Docker containers and full Linux distros (soon Kubernetes) seamlessly with robust networking. Manage containers from anywhere with our menu bar app.
+- ⚡️ **Lightning Fast.** Starts in 2 seconds, optimized [network](https://docs.orbstack.dev/docker/network) and file system, Rosetta emulation.
+- 💨 **Feather Light.** Low CPU and disk usage, [battery-friendly](https://docs.orbstack.dev/benchmarks), works with less memory, native Swift app.
+- 🍰 **Effortlessly Simple.** Automatic [domain names](https://docs.orbstack.dev/docker/domains) and [migration](https://docs.orbstack.dev/install#docker-migration), CLI & file system integration, VPN and SSH support.
+- ⚙️ **Powerful.** Run [Docker containers](https://docs.orbstack.dev/docker/), [Kubernetes](https://docs.orbstack.dev/kubernetes/), and [Linux distros](https://docs.orbstack.dev/machines/). Manage containers quickly from your menu bar. Explore volume and image files.
 
-Check the [website](https://orbstack.dev) for demos, or see [what we're up to](https://docs.orbstack.dev/release-notes).
+Check the [website](https://orbstack.dev) for demos, or see what we're up to in the [changelog](https://docs.orbstack.dev/release-notes).
 
 ## Learn more
 
-- [**Demos**](https://orbstack.dev/#demos)
+- [**Demos**](https://orbstack.dev)
 - [**Benchmarks**](https://orbstack.dev/#benchmarks)
 - [**Testimonials**](https://orbstack.dev/#testimonials)
 
@@ -30,5 +30,4 @@ Check the [website](https://orbstack.dev) for demos, or see [what we're up to](h
 - [Documentation](https://docs.orbstack.dev)
 - [Frequently asked questions](https://docs.orbstack.dev/faq)
 - [Issue tracker](https://github.com/orbstack/orbstack/issues)
-- [Roadmap](https://github.com/orgs/orbstack/projects/1)
 - [Support](mailto:support@orbstack.dev)
