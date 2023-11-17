@@ -40,9 +40,9 @@ body:
   - type: textarea
     id: diag
     attributes:
-      label: Diagnostic report (required)
+      label: Diagnostic report (REQUIRED)
       description: |
-        Click "Collect Diagnostics" in OrbStack's Help menu (or run the "orb report" command), then paste the output here.
+        Click "Upload Diagnostics" in OrbStack's Help menu (or run the "orb report" command), then paste the output here.
 
         This is private and only OrbStack developers can see the report.
       placeholder: |
